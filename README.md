@@ -13,3 +13,5 @@ Adruino IDE - To configure the settings of the Esp32 Module
    1.1 or Boland UHF RFID Reader Writer Non-Contact ISO18000-6C 902Mhz-928Mhz
 
 3. Esp32 Module - Module with wifi capabilities and bluetooth
+
+4. Voltage level shifter
