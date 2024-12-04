@@ -12,3 +12,5 @@ The list are the following that is needed to be created, it acts as a to-do list
 ## Create ID numbers for each RFID cards
 1. Use Excel and match the names to the given id
    
+
+_Please do note, when making changes always send it to the branch to analyze for changes_
