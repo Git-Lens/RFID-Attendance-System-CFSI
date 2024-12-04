@@ -8,6 +8,7 @@ Django - Python web framework
 Adruino IDE - To configure the settings of the Esp32 Module
 
 ## Hardware
-R200 UHF Reader - Long distanced high frequency scanner (Multi)
+1. R200 UHF Reader - Long distanced high frequency scanner (Multi) or 
+Boland UHF RFID Reader Writer Non-Contact ISO18000-6C 902Mhz-928Mhz
 
-Esp32 Module - Module with wifi capabilities and bluetooth
+3. Esp32 Module - Module with wifi capabilities and bluetooth
